@@ -17,4 +17,4 @@ If you find yourself unable to import your repository due to the presence of fil
   3. Run `git reset HEAD{1}`
   4. Run `git add -A`
   5. Run `git commit`
-  6. Run `git push`
+   6. Run `git push`
